@@ -15,12 +15,12 @@
         </code>    
     </cafd>
 <cafd id="00001EF6" name="HU_NBT_EVO" author="Simpaty" series="G001,G011,G030">
-    <code description="ENABLE Lane Change Assistant. Part 1 of 2. See NBT2">
+    <code description="ENABLE Lane Change Assistant. Part 2 of 2. See SAS">
             <group id="300A">
                 <function start="11" end="11" comment="Spurwechselassistent" mask="11000000b">01</function>
             </group>
         </code>
-    <code description="DISABLE Lane Change Assistant. Part 1 of 2. See NBT2">
+    <code description="DISABLE Lane Change Assistant. Part 2 of 2. See SAS">
             <group id="300A">
                 <function start="11" end="11" comment="Spurwechselassistent" mask="11000000b">00</function>
             </group>
